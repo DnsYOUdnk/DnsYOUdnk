@@ -11,3 +11,4 @@
  * [Maket-Memberset](https://dnsyoudnk.github.io/Maket-Memberset/)
  * [Portfolio task](https://dnsyoudnk.github.io/Building-completed-applications/portfolio/)
  * [TicTacToe](https://dnsyoudnk.github.io/Building-completed-applications/TicTacToe/)
+ * [My CV](https://dnsyoudnk.github.io/My_CV/)
