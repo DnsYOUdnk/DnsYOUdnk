@@ -1,9 +1,13 @@
 - 👋 Hi, I’m Dzianis Yudenka
 - 👀 I’m interested in web development
 - 🌱 I’m currently studying and developing in this field
-- 📫 How to reach me: **(Linkedin)[https://www.linkedin.com/in/denisyudenkojs/]
-
-<!---
-DnsYOUdnk/DnsYOUdnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: 
+   *  [**Linkedin**](https://www.linkedin.com/in/denisyudenkojs/)
+   *  [**Telegram: _@Karl_wazowski_**](https://t.me/Karl_wazowski) 
+   * **Email:** _d.yudenka@yandex.by_ 
+## To view
+ * [Maket-Memberset](https://dnsyoudnk.github.io/Maket-Memberset/)
+ * [Portfolio task](https://dnsyoudnk.github.io/HTML-CSS-JS/portfolio/)
+ * [Eco-sounds](https://dnsyoudnk.github.io/HTML-CSS-JS/eco-sounds/)
+ * [Random-jokes](https://dnsyoudnk.github.io/HTML-CSS-JS/random-jokes/)
+ * [TicTacToe](https://dnsyoudnk.github.io/HTML-CSS-JS/TicTacToe/)
