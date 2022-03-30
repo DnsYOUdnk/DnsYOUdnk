@@ -8,6 +8,4 @@
 ## To view
  * [Maket-Memberset](https://dnsyoudnk.github.io/Maket-Memberset/)
  * [Portfolio task](https://dnsyoudnk.github.io/Building-completed-applications/portfolio/)
- * [Eco-sounds](https://dnsyoudnk.github.io/Building-completed-applications/eco-sounds/)
- * [Random-jokes](https://dnsyoudnk.github.io/Building-completed-applications/random-jokes/)
  * [TicTacToe](https://dnsyoudnk.github.io/Building-completed-applications/TicTacToe/)
