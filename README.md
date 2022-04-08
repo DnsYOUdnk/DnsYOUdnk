@@ -7,8 +7,8 @@
    * **Email:** _d.yudenka@yandex.by_ 
 ## To view
 
- * [Maket-Nerds](https://dnsyoudnk.github.io/web-Nerds-example/)
- * [Maket-Memberset](https://dnsyoudnk.github.io/Maket-Memberset/)
- * [Portfolio task](https://dnsyoudnk.github.io/Building-completed-applications/portfolio/)
- * [TicTacToe](https://dnsyoudnk.github.io/Building-completed-applications/TicTacToe/)
- * [My CV](https://dnsyoudnk.github.io/My_CV/)
+ * [Maket-Nerds](https://dnsyoudnk.github.io/web-Nerds-example/) - HTML/CSS
+ * [Maket-Memberset](https://dnsyoudnk.github.io/Maket-Memberset/) - HTML/CSS
+ * [Portfolio task](https://dnsyoudnk.github.io/Building-completed-applications/portfolio/) - HTML/CSS/JS
+ * [TicTacToe](https://dnsyoudnk.github.io/Building-completed-applications/TicTacToe/) - HTML/CSS/JS
+ * [My CV](https://dnsyoudnk.github.io/My_CV/) - HTML/CSS
