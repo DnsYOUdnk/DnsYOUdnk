@@ -7,9 +7,10 @@
    * **Email:** _d.yudenka@yandex.by_ 
 ## To view
 
- * [My CV](https://dnsyoudnk.github.io/My_CV/) - HTML/CSS  * [Virtual keyboard](https://dnsyoudnk.github.io/Virtual-keyboard-0/virtual_keyboard/) - HTML/CSS/JS/WebPack
+ * [My CV](https://dnsyoudnk.github.io/My_CV/) - HTML/CSS
  * [Maket-Nerds](https://dnsyoudnk.github.io/web-Nerds-example/) - HTML/CSS
  * [Maket-Memberset](https://dnsyoudnk.github.io/Maket-Memberset/) - HTML/CSS
  * [Portfolio task](https://dnsyoudnk.github.io/Building-completed-applications/portfolio/) - HTML/CSS/JS
  * [TicTacToe](https://dnsyoudnk.github.io/Building-completed-applications/TicTacToe/) - HTML/CSS/JS
  * [Shelter task](https://dnsyoudnk.github.io/shelter-task/shelter/pages/main/) - HTML/CSS/JS
+ * [Virtual keyboard](https://dnsyoudnk.github.io/Virtual-keyboard-0/virtual_keyboard/) - HTML/CSS/JS/WebPack
