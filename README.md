@@ -5,6 +5,9 @@
    *  [**Linkedin**](https://www.linkedin.com/in/denisyudenkojs/)
    *  [**Telegram: _@Karl_wazowski_**](https://t.me/Karl_wazowski) 
    * **Email:** _d.yudenka@yandex.by_ 
+   * **Email:** _dns.yudenka@gmail.com_ 
+### ![Codewars DnsYOUdnk](https://www.codewars.com/users/DnsYOUdnk/badges/small)
+   
 ## To view
 
  * [My CV](https://dnsyoudnk.github.io/My_CV/) - HTML/CSS
