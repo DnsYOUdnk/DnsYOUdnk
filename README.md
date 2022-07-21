@@ -17,4 +17,5 @@
  * [TicTacToe](https://dnsyoudnk.github.io/Building-completed-applications/TicTacToe/) - HTML/CSS/JS
  * [Shelter task](https://dnsyoudnk.github.io/shelter-task/shelter/pages/main/) - HTML/CSS/JS
  * [Virtual keyboard](https://dnsyoudnk.github.io/Virtual-keyboard-0/virtual_keyboard/) - HTML/CSS/JS/WebPack
-  * [Sinaw-Final Project Myitsc](https://sinaw-project.netlify.app/) - HTML/CSS/JS/React/WebPack
+ * [Sinaw-Final Project Myitsc](https://sinaw-project.netlify.app/) - HTML/CSS/JS/React/WebPack
+ * [Online Store](https://dnsyoudnk-online-store.netlify.app/) - React/Typescript/WebPack
