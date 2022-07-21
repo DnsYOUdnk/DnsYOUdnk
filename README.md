@@ -6,7 +6,7 @@
    *  [**Telegram: _@Karl_wazowski_**](https://t.me/Karl_wazowski) 
    * **Email:** _d.yudenka@yandex.by_ 
    * **Email:** _dns.yudenka@gmail.com_ 
-### ![Codewars DnsYOUdnk](https://www.codewars.com/users/DnsYOUdnk/badges/small)
+### ![Codewars DnsYOUdnk](https://www.codewars.com/users/rsschool_DnsYOUdnk/badges/small)
    
 ## To view
 
