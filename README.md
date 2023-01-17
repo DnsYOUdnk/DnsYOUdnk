@@ -34,11 +34,11 @@
 
 <div align="center">
     <a href="https://git.io/streak-stats" target=_blank>
-      <img src="https://streak-stats.demolab.com/?user=DnsYOUdnk&theme=onedark"/>
+      <img src="https://streak-stats.demolab.com/?user=dnsyoudnk&theme=onedark"/>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=DnsYOUdnk&show_icons=true&theme=onedark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dnsyoudnk&show_icons=true&theme=onedark"/>
     <a href="https://github.com/anuraghazra/github-readme-stats" target=_blank>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnsYOUdnk&layout=compact&theme=onedark"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsyoudnk&layout=compact&theme=onedark"/>
     </a>
 </div>
 <div align="center">
